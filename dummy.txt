@@ -1,0 +1,3 @@
+this text is from dummy text 
+from git to visual
+"git pull"
